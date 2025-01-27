@@ -17,10 +17,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/jvidesDev?style=social)
 
 <!-- Sección de información personal -->
-<picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px" align="center">
-</picture> 
-**About Me**
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px align="center"></picture> **About Me**
 
 - 💻 I am primarily a backend developer.
 - 📚 I hold a Software Analysis and Development Technologist certification.
