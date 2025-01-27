@@ -19,13 +19,19 @@
 <!-- Sección de información personal -->
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px align="center"></picture> **About Me**
 
-- 💻 I am primarily a backend developer.
-- 📚 I hold a Software Analysis and Development Technologist certification.
-- 📝 I am passionate about software engineering and design principles.
-- 🌟 My primary language is Ruby.
-- 🚩 I aim to collaborate on impactful and innovative projects.
-- 😃 I'm interested in server-side application development.
-- ✍ You can find my resume [here]()
+💻 I am primarily a backend developer.
+
+📚 I hold a Software Analysis and Development Technologist certification.
+
+📝 I am passionate about software engineering and design principles.
+
+🌟 My primary language is Ruby.
+
+🚩 I aim to collaborate on impactful and innovative projects.
+
+😃 I'm interested in server-side application development.
+
+✍ You can find my resume [here]()
 
 <!-- Línea divisoria -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
